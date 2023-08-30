@@ -10,3 +10,8 @@ let count=0;
         }
         
     }
+
+if(count==2){
+   console.log("it is a prime no.")
+}else{
+     console.log("it is not a prime no.")}
